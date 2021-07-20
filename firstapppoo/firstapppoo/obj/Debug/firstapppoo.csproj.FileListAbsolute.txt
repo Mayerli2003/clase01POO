@@ -1,0 +1,7 @@
+C:\Users\William\source\repos\firstapppoo\firstapppoo\bin\Debug\firstapppoo.exe.config
+C:\Users\William\source\repos\firstapppoo\firstapppoo\bin\Debug\firstapppoo.exe
+C:\Users\William\source\repos\firstapppoo\firstapppoo\bin\Debug\firstapppoo.pdb
+C:\Users\William\source\repos\firstapppoo\firstapppoo\obj\Debug\firstapppoo.csprojAssemblyReference.cache
+C:\Users\William\source\repos\firstapppoo\firstapppoo\obj\Debug\firstapppoo.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\firstapppoo\firstapppoo\obj\Debug\firstapppoo.exe
+C:\Users\William\source\repos\firstapppoo\firstapppoo\obj\Debug\firstapppoo.pdb
